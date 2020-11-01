@@ -19,7 +19,7 @@ class ViewController: UIViewController{
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    //yorum satırı
     @IBAction func AsagiButonu(_ sender: Any) {
         var x_coordinate : Int = Int(sonucLabel.frame.origin.x)
         
